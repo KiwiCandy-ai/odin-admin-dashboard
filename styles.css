@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+body {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid black;
+}
+
+header {
+
+}
+
+nav {
+
+}
+
+article {
+
+}
